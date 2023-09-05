@@ -5,4 +5,4 @@
 ##### H5 header
 ###### H6 header
 
-Typed 6 headers.
+![Poster of AlphaGo Documentary](https://upload.wikimedia.org/wikipedia/en/7/78/Alphago-movie-poster-md.jpg)
