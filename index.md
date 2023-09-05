@@ -18,3 +18,7 @@ echo helloworld
 ``` cpp
 #include<iostream>
 ```
+
+- [x] List syntax is required
+- [ ] This item is not complete
+- [ ] This item is not complete
